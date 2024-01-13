@@ -1,3 +1,3 @@
 # firstrepo
 This is my first repository
-author Aman Das
+author Aman Das lol
