@@ -7,3 +7,6 @@ author Aman Das lol
 25/1/23 I discoverd a web dev learning website
 
 26/1/23 I have decided I want to create discord clone "whatever it takes"
+
+
+29/1/23 I fukkin made my first java appliaction 
