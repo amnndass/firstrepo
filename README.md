@@ -15,3 +15,5 @@ author Aman Das lol
 8/2/24 I made a goal on notion
 
 23/2/24 currently I am doing nothing because of boards
+
+09-08-2024 college has started restarting my github journey
