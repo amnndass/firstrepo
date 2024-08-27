@@ -17,3 +17,5 @@ author Aman Das lol
 23/2/24 currently I am doing nothing because of boards
 
 09-08-2024 college has started restarting my github journey
+
+27-08-2024 made some (basic) js in the past few days. pushed my first js project today (by influence of seniors) and started my dsa journey yesterday (day before)
