@@ -19,3 +19,5 @@ author Aman Das lol
 09-08-2024 college has started restarting my github journey
 
 27-08-2024 made some (basic) js in the past few days. pushed my first js project today (by influence of seniors) and started my dsa journey yesterday (day before)
+
+4-09-2024 leetcode arc begins -pure grind for 6 months then gym
