@@ -21,3 +21,5 @@ author Aman Das lol
 27-08-2024 made some (basic) js in the past few days. pushed my first js project today (by influence of seniors) and started my dsa journey yesterday (day before)
 
 4-09-2024 leetcode arc begins -pure grind for 6 months then gym
+
+08-09-2024 I messed up my ramdomquotegen project while pushing it on github -- I accidently staged npm modules and somehow deleted my whole project😭
