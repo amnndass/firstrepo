@@ -23,3 +23,5 @@ author Aman Das lol
 4-09-2024 leetcode arc begins -pure grind for 6 months then gym
 
 08-09-2024 I messed up my ramdomquotegen project while pushing it on github -- I accidently staged npm modules and somehow deleted my whole project😭
+
+29-09-24 yesterday I joined gym due to many reasons
